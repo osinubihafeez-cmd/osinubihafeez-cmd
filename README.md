@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Hi, I'm Osinubi Bamidele Hafeez
 
 I'm a recent graduate with a passion for turning raw data into clear, 
@@ -23,4 +21,4 @@ where I can apply my skills and keep learning.
 ## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/osinubibamidele/
 - Email: bammyosinubi@gmail.com
--->
+
