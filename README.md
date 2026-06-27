@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**osinubihafeez-cmd/osinubihafeez-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Osinubi Bamidele Hafeez
 
-Here are some ideas to get you started:
+I'm a recent graduate with a passion for turning raw data into clear, 
+actionable insights. I work across both **data analysis** and **data 
+science**, using the right tool for the problem — whether that's a 
+quick Excel pivot table or a full Python-based predictive model.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧰 What I Work With
+- **Data Analysis:** Excel (PivotTables, VLOOKUP, Power Query), SQL, Power BI / Tableau
+- **Data Science:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), Jupyter Notebooks
+
+## 📂 My Portfolios
+- 📊 [data-analyst-portfolio](https://github.com/yourusername/data-analyst-portfolio) — Excel & BI dashboard projects
+- 🤖 [data-science-portfolio](https://github.com/yourusername/data-science-portfolio) — Python & machine learning projects
+
+## 🎯 Currently
+Looking for **entry-level opportunities** in Data Analysis or Data Science 
+where I can apply my skills and keep learning.
+
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/osinubibamidele/
+- Email: bammyosinubi@gmail.com
 -->
