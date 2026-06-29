@@ -11,7 +11,7 @@ quick Excel pivot table or a full Python-based predictive model.
 - **Data Science:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), Jupyter Notebooks
 
 ## 📂 My Portfolios
-- 📊 [data-analyst-portfolio](https://github.com/yourusername/data-analyst-portfolio) — Excel & BI dashboard projects
+- 📊 [data-analyst-portfolio](https://github.com/osinubihafeez-cmd/data-analyst-portfolio) — Excel & BI dashboard projects
 - 🤖 [data-science-portfolio](https://github.com/yourusername/data-science-portfolio) — Python & machine learning projects
 
 ## 🎯 Currently
