@@ -12,7 +12,7 @@ quick Excel pivot table or a full Python-based predictive model.
 
 ## 📂 My Portfolios
 - 📊 [data-analyst-portfolio](https://github.com/osinubihafeez-cmd/data-analyst-portfolio) — Excel & BI dashboard projects
-- 🤖 [data-science-portfolio](https://github.com/yourusername/data-science-portfolio) — Python & machine learning projects
+- 🤖 [data-science-portfolio](https://github.com/osinubihafeez-cmd/data-science-portfolio) — Python & machine learning projects
 
 ## 🎯 Currently
 Looking for **entry-level opportunities** in Data Analysis or Data Science 
